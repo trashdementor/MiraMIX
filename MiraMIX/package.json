@@ -1,0 +1,19 @@
+{
+    "name": "miramix",
+    "version": "0.1.0",
+    "description": "Сайт с рейтингом фильмов, сериалов, книг и многого другого",
+    "main": "index.js",
+    "scripts": {
+      "client": "cd client && npm start",
+      "install-client": "cd client && npm install"
+    },
+    "keywords": [
+      "rating",
+      "movies",
+      "books",
+      "music",
+      "games"
+    ],
+    "author": "",
+    "license": "MIT"
+  }
